@@ -1,3 +1,3 @@
 <?php
-echo 'teste novo'; 
+echo 'TESTE DEVELOP'; 
 ?>
