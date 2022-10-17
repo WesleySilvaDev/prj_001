@@ -2,7 +2,7 @@ on:
   push:
     branches:
     - main
-name: 🚀 Deploy producao
+name: 🚀 Deploy main producao
 jobs:
   web-deploy:
     name: 🎉 Deploy
