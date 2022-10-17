@@ -1,0 +1,101 @@
+.custom_acf_image_slider2 {
+    max-width: 226px !important;
+}
+
+.owl_theme .owl-nav .owl-prev {
+	background: rgba(0,0,0,0.3) url(../images/icon_prev.png) no-repeat center center !important;
+	display:none
+}
+
+.owl_theme .owl-nav .owl-next {
+	background: rgba(0,0,0,0.3) url(../images/icon_next.png) no-repeat center center !important;
+	display:none
+}
+
+.owl_theme:hover .owl-nav .owl-next ,
+.owl_theme:hover .owl-nav .owl-prev {
+	display:block
+}
+
+
+.owl-carousel .owl-stage-outer {
+	width: 100% !important;
+}
+
+body .custom_owl_theme .owl-nav .owl-prev {
+	left: 10px;
+
+}
+
+.custom_owl_theme .owl-nav .owl-prev:hover,
+.custom_owl_theme .owl-nav .owl-next:hover {
+	background-color: rgba(0,0,0,0.6) !important;
+}
+
+.custom_acf_image_slider{
+	padding: 5%;
+	margin: 0px 0%;
+	background-position: left top;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: rgba(0, 0, 0, 0);
+	min-height: 84px;
+
+
+}
+
+
+
+.custom_acf_image_slider .titulo {
+	color: #FFFFFF;
+
+	align-items: center;
+
+	background-color: #191919;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.custom_acf_image_slider img:hover {
+	-webkit-filter: brightness(70%);
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+body .custom_owl_theme .owl-nav .owl-next{
+	right: 10px;
+
+}
+
+.custom_owl_theme  .owl-nav div, .custom_owl_theme  .owl-nav button {
+	position: absolute;
+	top: 50%;
+	padding: 2px 0px !important;
+	display: inline-block;
+	margin-top: -20px !important;
+	line-height: 30px !important;
+	height: 40px !important;
+	width: 30px !important;
+	transition: all .3s ease-in-out !important;
+	-webkit-transition: all .3s ease-in-out !important;
+	-moz-transition: all .3s ease-in-out !important;
+	-o-transition: all .3s ease-in-out !important;
+}
+
+
+@media (min-width:768px){
+	.custom_acf_image_slider img{
+		max-height:119px;
+	}
+}
+
+@media (max-width:768px){
+	.custom_acf_image_slider img{
+		max-height:154px;
+		height: inherit;
+	}
+}
+

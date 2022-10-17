@@ -1,0 +1,84 @@
+transacaoid: 22333956109
+numpedido: 221327338
+referencia: ASSINATURA
+valorfrete: 0
+datatransacao: 2022-05-13T14:13:18.000-04:00
+tipopagamento: credit_card
+bancobandeira: visa
+status: in_process
+ultmodificacao: 2022-05-13T14:13:18.000-04:00
+detalhestatus: pending_review_manual
+valorbruto: 1
+valordesconto: 0
+valorliquido: 0
+valortaxas: 
+link: 
+clinome:  
+cliemail: model1@email.com
+parcelas: 1
+
+-------------------------------------------
+
+transacaoid: 22333956109
+numpedido: 221327338
+referencia: ASSINATURA
+valorfrete: 0
+datatransacao: 2022-05-13T14:13:18.000-04:00
+tipopagamento: credit_card
+bancobandeira: visa
+status: rejected
+ultmodificacao: 2022-05-13T14:33:11.000-04:00
+detalhestatus: cc_rejected_high_risk
+valorbruto: 1
+valordesconto: 0
+valorliquido: 0
+valortaxas: 
+link: 
+clinome:  
+cliemail: model1@email.com
+parcelas: 1
+
+-------------------------------------------
+
+transacaoid: 22336575357
+numpedido: 221322702
+referencia: ASSINATURA
+valorfrete: 0
+datatransacao: 2022-05-13T15:47:44.000-04:00
+tipopagamento: credit_card
+bancobandeira: visa
+status: in_process
+ultmodificacao: 2022-05-13T15:47:44.000-04:00
+detalhestatus: pending_review_manual
+valorbruto: 2.41
+valordesconto: 0
+valorliquido: 0
+valortaxas: 
+link: 
+clinome:  
+cliemail: WESLEYS97@GMAIL.COM
+parcelas: 1
+
+-------------------------------------------
+
+transacaoid: 22336575357
+numpedido: 221322702
+referencia: ASSINATURA
+valorfrete: 0
+datatransacao: 2022-05-13T15:47:44.000-04:00
+tipopagamento: credit_card
+bancobandeira: visa
+status: rejected
+ultmodificacao: 2022-05-13T16:08:58.000-04:00
+detalhestatus: cc_rejected_high_risk
+valorbruto: 2.41
+valordesconto: 0
+valorliquido: 0
+valortaxas: 
+link: 
+clinome:  
+cliemail: WESLEYS97@GMAIL.COM
+parcelas: 1
+
+-------------------------------------------
+

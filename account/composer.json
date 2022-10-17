@@ -1,0 +1,11 @@
+{
+    "require": {
+        "mercadopago/dx-php": "2.4.5",
+        "laravel/installer": "^4.2"
+    },
+    "autoload":{
+        "psr-4":{
+            "Classes\\":"../class/"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="UTF-8">
+    <title>TESTE DE PAGAMENTO</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://polyfill.io/v3/polyfill.min.js?version=3.52.1&features=fetch"></script>
+    <script src="https://js.stripe.com/v3/"></script>
+  </head>
+  <body>
+    <section>
+      <div class="product">
+      
+        <div class="description">
+          <h3>VERIFIQUE OS DADOS ANTES DE CONTINUAR:</h3>
+          <h5>PLANO 3 <br> Renovação semanal automática</h7>
+        </div>
+      </div>
+      <form action="../session_pagamento.php" method="POST">
+        <button type="submit" id="checkout-button">PAGAR</button>
+      </form>
+    </section>
+  </body>
+</html>
