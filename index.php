@@ -14,7 +14,7 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <title>Nosso Love</title> 
+      <title>S2 ACOMPANHANTES</title> 
       <link rel="stylesheet" href="assets/content/cache/min/1/nl_937763584983622.css" media="all" data-minify="1" />
       <script type='text/javascript' src='assets/includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'></script>
       <link rel="stylesheet" href="assets/glyphicons/glyphicons.css" type="text/css" />
