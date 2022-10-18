@@ -1,5 +1,5 @@
 <?php
-exit('');
+exit('TE AMO BACULINO <3');
    include('inc/config.php'); 
     header('Access-Control-Allow-Origin: https://nossolove.com/');
     header('Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept'); 
@@ -8,6 +8,9 @@ exit('');
 <!DOCTYPE html> 
 <html lang="pt-BR" id="html">
    <meta http-equiv="assets/content-type" content="text/html;charset=UTF-8" />
+   
+   
+   
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">

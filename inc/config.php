@@ -8,7 +8,7 @@ define("DB_TYPE_CON", "mysql");
 define("DB_HOST_CON", "localhost");
 define("DB_USER_CON", "evolute1_s2acomp");
 define("DB_PASS_CON", "1324.!#@$");
-define("DB_NAME_CON", "evolute1_s2acomp");
+define("DB_NAME_CON", "evolute1_s2acomp"); 
 try {
     $pdo = new PDO('mysql:host='.DB_HOST_CON.';dbname='.DB_NAME_CON.'', DB_USER_CON, DB_PASS_CON);
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
