@@ -16,9 +16,9 @@ try {
 } catch(PDOException $e) {
     echo 'Error: ' . $e->getMessage();
 }
-
+ 
 function Tempo($d)
-    {
+{ 
         $ts = SecondsVIP($d);
 
         if ($ts >= 31104000) $val = round($ts / 31104000, 0) . ' Ano';
